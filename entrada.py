@@ -12,6 +12,13 @@ print('O seu domínio é: ', dominio)
 
 
 email = nome + '@' + dominio
-print('Seu e-mai é :', email)
+print('Seu e-mail é :', email)
 
+palavra = 'jaca'
+#colocar a string como toda maiuscula
+print('Colocando o texto em maiuscula: ',palavra.upper())
+
+PALAVRA = 'JACA'
+#colocar a string como toda minuscula
+print('Colocando o texto em minuscula: ', PALAVRA.lower()) 
 
